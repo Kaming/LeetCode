@@ -9,6 +9,8 @@
 
 - [Palindrome Number(回文数)](src/easy/PalindromeNumber.java)
 
+- [Roman to Integer(罗马数字转整数)](src/easy/RomanToInt.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
