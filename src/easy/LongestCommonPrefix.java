@@ -9,8 +9,7 @@ package easy;
  * <p>
  * 如果不存在公共前缀，返回空字符串 ""。
  *
- * @author Created by Kaming on 2018/7/17.
- * @version Copyright (c) 2018, 货宝宝网络科技有限公司 All Rights Reserved.
+ * Created by kaming on 2018/7/17.
  */
 public class LongestCommonPrefix {
 
