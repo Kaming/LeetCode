@@ -11,6 +11,8 @@
 
 - [Roman to Integer(罗马数字转整数)](src/easy/RomanToInt.java)
 
+- [Longest Common Prefix(最长公共前缀)](src/easy/LongestCommonPrefix.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
