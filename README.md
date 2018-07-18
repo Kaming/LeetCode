@@ -13,6 +13,8 @@
 
 - [Longest Common Prefix(最长公共前缀)](src/easy/LongestCommonPrefix.java)
 
+- [Valid Parentheses(有效的括号)](src/easy/ValidParentheses.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
