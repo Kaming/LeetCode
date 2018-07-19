@@ -15,6 +15,8 @@
 
 - [Valid Parentheses(有效的括号)](src/easy/ValidParentheses.java)
 
+- [Merge Two Sorted Lists(合并两个有序链表)](src/easy/MergeTwoSortedLists.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
