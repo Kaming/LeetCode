@@ -17,6 +17,8 @@
 
 - [Merge Two Sorted Lists(合并两个有序链表)](src/easy/MergeTwoSortedLists.java)
 
+- [Remove Duplicates from Sorted Array(删除排序数组中的重复项)](src/easy/RemoveDuplicatesFromSortedArray.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
