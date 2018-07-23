@@ -19,6 +19,8 @@
 
 - [Remove Duplicates from Sorted Array(删除排序数组中的重复项)](src/easy/RemoveDuplicatesFromSortedArray.java)
 
+- [Remove Element(移除元素)](src/easy/RemoveElement.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
