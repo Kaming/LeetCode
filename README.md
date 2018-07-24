@@ -21,6 +21,8 @@
 
 - [Remove Element(移除元素)](src/easy/RemoveElement.java)
 
+- [Implement strStr()(实现strStr())](src/easy/ImplementstrStr.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
