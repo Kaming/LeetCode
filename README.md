@@ -23,6 +23,8 @@
 
 - [Implement strStr()(实现strStr())](src/easy/ImplementstrStr.java)
 
+- [Search Insert Position(搜索插入位置)](src/easy/SearchInsertPosition.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
