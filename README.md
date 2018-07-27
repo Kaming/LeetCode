@@ -25,6 +25,8 @@
 
 - [Search Insert Position(搜索插入位置)](src/easy/SearchInsertPosition.java)
 
+- [Count and Say(报数)](src/easy/CountAndSay.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
