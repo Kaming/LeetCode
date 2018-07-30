@@ -27,6 +27,8 @@
 
 - [Count and Say(报数)](src/easy/CountAndSay.java)
 
+- [Maximum Subarray(最大子序和)](src/easy/MaximumSubarray.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
