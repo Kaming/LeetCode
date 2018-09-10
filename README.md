@@ -31,6 +31,8 @@
 
 - [Length of Last Word(最后一个单词的长度)](src/easy/LengthofLastWord.java)
 
+- [Plus One(加一)](src/easy/PlusOne.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
