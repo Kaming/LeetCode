@@ -29,6 +29,8 @@
 
 - [Maximum Subarray(最大子序和)](src/easy/MaximumSubarray.java)
 
+- [Length of Last Word(最后一个单词的长度)](src/easy/LengthofLastWord.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
