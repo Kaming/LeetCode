@@ -33,6 +33,8 @@
 
 - [Plus One(加一)](src/easy/PlusOne.java)
 
+- [Add Binary(二进制求和)](src/easy/AddBinary.java)
+
 ### [Medium](src/medium)
 
 ### [Hard](src/hard)
